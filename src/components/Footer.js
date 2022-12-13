@@ -1,4 +1,5 @@
 
+
 import React, { useEffect } from 'react';
 
 export default function Footer() {
@@ -56,7 +57,7 @@ export default function Footer() {
                         <a href="#" className="topBtn" id="topBtn" style={{marginRight:"10%"}}>Back to Top &#8593;</a>
                         {/* Craft with 💘 */}
 
-                        Craft with <font color="hotpink">♥</font>
+                        Craft with <font color="hotpink" style={{marginLeft:"5px"}}>♥</font>
                       </div>
                     </div>
                   </div>
