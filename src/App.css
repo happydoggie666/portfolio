@@ -261,3 +261,12 @@ a.navbar-button:hover, a.navbar-button:active {
   text-decoration: underline;
 }
 
+
+.progress {
+  position: fixed;
+  background-color: brown;
+  height: 4px;
+  width: 100%;
+  z-index: 99999;
+  margin-top: 80px;
+}
