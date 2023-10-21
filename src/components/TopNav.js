@@ -56,7 +56,7 @@ const Navbar = () => {
               alt="logo"
               style={{ margin: "0 5px" }}
             />
-            Chen Wei
+            Chen Wei's Design Portfolio
           </p>
         </div>
         <button
@@ -127,3 +127,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
