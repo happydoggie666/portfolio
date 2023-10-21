@@ -32,7 +32,7 @@ export default function Footer() {
               <div className="row">
                 <div className="col-lg-6 col-sm-12 px-5 py-3">
                   <h4>
-                    <a href="#">Happy Doggie 666</a>
+                    <a href="#">Chen Wei</a>
                   </h4>
                   <p>Stay Hungry, Stay Foolish!</p>
                   <ul className="navbar-nav flex-row">
@@ -93,3 +93,4 @@ export default function Footer() {
     </section>
   );
 }
+
